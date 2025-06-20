@@ -1,0 +1,10 @@
+cd ~/wifi-login-tool
+mkdir ~/wifi-login-tool
+cd ~/wifi-login-tool
+git init
+git add .
+git commit -m "Initial commit: Termux-compatible WiFi login tool"
+git remote add origin https://github.com/Mdnoyon14/wifi-login-tool.git
+git branch -M main
+Username for 'https://github.com': Mdnoyon14
+Password for 'https://Mdnoyon14@github.com': [এখানে Token পেস্ট করো]
